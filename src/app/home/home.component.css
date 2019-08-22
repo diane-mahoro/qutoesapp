@@ -1,0 +1,7 @@
+.container-fluid{
+    background-image: url('https://image.shutterstock.com/image-illustration/on-earth-3d-illustration-background-600w-1171268437.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+}
